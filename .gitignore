@@ -1,0 +1,10 @@
+# ADB binaries (users download their own)
+platform-tools*/
+platform-tools*.zip
+
+# Backup output
+backups/
+
+# Python
+__pycache__/
+*.pyc
